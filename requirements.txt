@@ -1,0 +1,9 @@
+collection==0.1.6
+contractions==0.0.48
+flair==0.8.0.post1
+neattext==0.1.0
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+regex @ file:///C:/ci/regex_1602770567298/work
+textblob==0.15.3
